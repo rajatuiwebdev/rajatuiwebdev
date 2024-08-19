@@ -10,4 +10,4 @@ A strong advocate for open source, I believe in sharing knowledge and collaborat
 
 So, if you're up for some nerdy stuff, or just a good time just hit me up!
 
-<img src="./images/panda.gif" width="200"> <img src="./images/polarbear.gif" width="200">
+<img src="./images/panda.gif" width="200"> <img src="./images/polarbear.gif" width="600">
