@@ -1,5 +1,5 @@
 ![banner](./img/white.png#gh-light-mode-only)
-![banner](./img/dark.png#gh-dark-mode-only)
+![banner](./img/black.png#gh-dark-mode-only)
 
 <p align="center"> <i>/व्योगामि/ /vjoːɡaːmi/</i> <p>
 
