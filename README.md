@@ -6,6 +6,8 @@
 
 <img src="./images/greet.gif" width="25"> Hey there, it's Rajat Rajput, a passionate MERN stack developer, I'm always on the lookout for innovative ways to build dynamic web applications.
 
-A strong advocate for open source, I believe in sharing knowledge and collaborating with the developer community. <img src="./images/panda.gif" width="40">
+A strong advocate for open source, I believe in sharing knowledge and collaborating with the developer community.
 
 So, if you're up for some nerdy stuff, or just a good time just hit me up!
+
+<img src="./images/panda.gif" width="200">
