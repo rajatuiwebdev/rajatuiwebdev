@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatrajput2004) [![YouTube](https://img.shields.io/badge/Instagram-%23833AB4.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajatrajput.dev)
 
-<img src="./images/greet.gif" width="25"> Hey there, it's Rajat Rajput, a passionate MERN stack developer, I'm always on the lookout for innovative ways to build dynamic web applications.
+Hey there, it's Rajat Rajput, a passionate MERN stack developer, I'm always on the lookout for innovative ways to build dynamic web applications.
 
 A strong advocate for open source, I believe in sharing knowledge and collaborating with the developer community.
 
